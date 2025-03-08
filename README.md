@@ -1,6 +1,5 @@
 # CS405 Machine Learning
-## Research Final Report
 ## TSDR: Traﬀic-Sign Detection and Recognition
 
-[📄 Proposal](https://github.com/your-username/your-repo/blob/main/README.pdf)
-[📄 Final Report](https://github.com/your-username/your-repo/blob/main/README.pdf)
+[📄 Proposal](https://github.com/naivecynics/SUSTech-CS405-24fall-Machine-Learning-TSDR-Project/blob/main/research-proposal/proposal.pdf)
+[📄 Final Report](https://github.com/naivecynics/SUSTech-CS405-24fall-Machine-Learning-TSDR-Project/blob/main/final-report/ML-final-report.pdf)
